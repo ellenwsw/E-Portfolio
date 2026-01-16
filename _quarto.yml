@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: C:/Users/melser/Documents/GitHub/E-Portfolio
+  output-dir: C:/Users/ellenwsw.stu/MGEM/Git/E-Portfolio
 
 website:
-  title: "Your E-Portfolio"
+  title: "Ellen Wu"
   navbar:
     left:
       - href: index.qmd

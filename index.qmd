@@ -1,26 +1,24 @@
 ---
-title: "My E-Portfolio"
-image: images/MGEM_logo.png
+title: "Ellen Wu"
+image: images/thematic.jpeg
 about:
   template: trestles
   image-width: 20em
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://www.linkedin.com/in/sw-ellen
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/ellenwsw
+    - icon: collection
+      text: blog
+      href: https://blogs.ubc.ca/ellenwsw/
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:ellenwsw@student.ubc.ca
 ---
 
-Hey there people,
+## About Me
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
-
-Write something about myself, very exciting.
+My name is Ellen, and I’m originally from Guangdong, China, but Canada has been my second hometown after spending more than 10 years here. Before pursuing graduate studies, I completed a Bachelor of Commerce in Business Economics and Law at the Alberta School of Business, University of Alberta (2015–2019). After gaining some industry experience, I decided to return to school and recently completed a BA in Environment & Sustainability with a GIS Minor at the University of British Columbia’s Faculty of Arts (2022–2025). Professionally, I’ve worked as a GIS Technician co-op with the BC Ministry of Agriculture and Food, and most recently with the Partnership for Water Sustainability in BC (2025). These roles deepened my interest in spatial data analysis and sustainable land and water management. I’ve chosen to pursue the MGEM program to strengthen my technical expertise in geospatial science and contribute to evidence-based environmental policy. Long-term, I hope to work at the intersection of GIS, sustainability, and public policy, helping drive impactful decisions in resource and land management.
