@@ -4,27 +4,18 @@ title: "Resume"
 
 # Education
 
--   List your education here.
+-   University of British Columbia – Master of Geomatics for Environmental Management (MGEM, 2025-2026)
+-   University of British Columbia – Bachelor of Arts (2022-2025), Environment & Sustainability Major, GIS Minor
+-   Alberta School of Business, University of Alberta – Bachelor of Commerce (2015-2019), Business Economics and Law
 
 # Publications
 
 *Peer-reviewed publications:*
 
--   List any peer-reviewed publications here.
-
-*Reports:*
-
--   List any non-peer reviewed materials you'd like to share here.
-
-# Conferences & Talks
-
-*Invited Talks*
-
--   If you've been invited to speak in a professional setting, list that here.
-
-*Conference Presentations*
-
--   If the presentation was at a conference, list them here.
+-   Ellen Wu (2025). “A Criticism of Fukushima Radioactive Water Discharge
+    in the Lens of Environmental Justice.” *Trail Six, Volume 19*, pp. 85-96.
+    Vancouver BC: Department of Geography, University of British Columbia.
+    https://trailsix.geog.ubc.ca/volumes/archive/
 
 # Awards & Honors
 
