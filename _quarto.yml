@@ -3,7 +3,7 @@ project:
   output-dir: C:/Users/ellenwsw.stu/MGEM/Git/E-Portfolio
 
 website:
-  title: "Ellen Wu"
+  title: "Ellen Wu's E-Portfolio"
   navbar:
     left:
       - href: index.qmd
